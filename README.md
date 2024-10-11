@@ -1,8 +1,13 @@
 Name: Pawan Sai Kodali  
+
 Company: CODTECH IT SOLUTION
+
 ID: CT08DS7900
+
 Domain: Cyber Security & Ethical Hacker 
+
 Duration: Sep to Oct 2024
+
 Mentor: Neela Santhu
 
 Overview of the Project                
